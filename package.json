@@ -1,0 +1,32 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "proekt by Sasha Programmist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5kuznik/frontend-project-44.git"
+  },
+  "author": "SashaProgrammist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5kuznik/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/5kuznik/frontend-project-44#readme",
+  "bin": {
+    "code": "bin/brain-games.js",
+    "brain-games": "bin/brain-games.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
